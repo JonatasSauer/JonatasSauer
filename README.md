@@ -1,4 +1,4 @@
-# Salve Programador(a), tudo bom? como você esta?
+# Salve Programador(a), tudo bom? 
 
 ### Me chamo Jonatas Sauer, seja muito bem vindo(a) ao meu pedaço do céu que é o meu repositório.</p> 
 
