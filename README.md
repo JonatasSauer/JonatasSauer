@@ -1,6 +1,6 @@
-<h2 style="color:yellow;">Salve Programador(a), tudo bom? como você esta?<h2/>
+# Salve Programador(a), tudo bom? como você esta?
 
-Me chamo Jonatas Sauer e seja muito bem vindo(a) ao meu pedaço do céu que é o meu repositório. 👋
+### Me chamo Jonatas Sauer e seja muito bem vindo(a) ao meu pedaço do céu que é o meu repositório.</p> 
 
 
 [![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portifolio.jonatassauer.repl.co/)
@@ -9,3 +9,5 @@ Me chamo Jonatas Sauer e seja muito bem vindo(a) ao meu pedaço do céu que é o
 [![Blog](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@JonatasSauer)
 
 ![JonatasSauer's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonatasSauer&show_icons=true&theme=onedark)
+
+### Confira Minhas tecnologias:
