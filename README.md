@@ -6,4 +6,4 @@ Me chamo Jonatas Sauer e seja muito bem vindo(a) ao meu pedaço do céu que é o
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatas-sauer-1a4172245/)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonatassauer/)
 
-![JonatasSauer's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![JonatasSauer's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonatasSauer&show_icons=true&theme=dracula)
